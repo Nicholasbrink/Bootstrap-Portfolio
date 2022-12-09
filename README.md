@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 3 Challenge: Code Bootstrap Portfolio
 
 ## Overview
@@ -154,3 +155,6 @@ You are required to submit BOTH of the following for review:
 ## Copyright
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Bootstrap-Portfolio
+>>>>>>> f0cfc03f8a378fe86e106152c19623e8257da123
