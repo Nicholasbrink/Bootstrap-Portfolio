@@ -1,0 +1,60 @@
+.jumbotron {
+  background-image: url("./images/background5.jpg");
+  background-size: cover;
+  height: 100%;
+}
+.aboutMe {
+  display: flexbox;
+  padding: 20px;
+  height: 200px;
+  /* color: rgb(210, 216, 218); */
+  /* background-color: rgba(0, 0, 0, 0.7); */
+  text-align: left;
+  margin: 20px 10%;
+}
+.aboutMe img {
+  max-height: 100%;
+  float: left;
+  margin-right: 50px;
+}
+.contact-section .social {
+  margin-top: 5rem;
+}
+.contact-section .social a {
+  text-align: center;
+  height: 3rem;
+  width: 3rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 100%;
+  line-height: 3rem;
+  color: rgba(255, 255, 255, 0.3);
+}
+.contact-section .social a:hover {
+  color: rgba(11, 201, 122, 0.5);
+}
+.contact-section .social a:active {
+  color: rgb(228, 17, 17);
+}
+.bg-black {
+  background-color: #ffffff !important;
+}
+
+#contactMe {
+  text-align: center;
+  /* background-color: rgba(0, 0, 0, 0.7); */
+  margin: 20px 10%;
+  padding-top: 5px;
+  height: 100px;
+}
+
+footer {
+  padding: 25px 0;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.3);
+  background-color: #222222;
+}
+
+footer p {
+  font-size: 12px;
+  margin: 0;
+}
