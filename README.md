@@ -1,24 +1,14 @@
-- Use bootstrap cards for each project.
-
-  - The description should give a brief overview of the work.
-
-- Each project will eventually link to your class project work!
-
-- A skills section
-
-  - List out the skills you expect to learn from the bootcamp.
-
-- An about / contact section.
-
-  - An "About Me" section in the same row.
-
 # Unit 3 Challenge: Code Bootstrap Portfolio - Nick Brink
 
 ## Description
 
 This project was to showase all work done so far on the EdX Front End Developer Bootcamp. this section. I have included a nav bar, A Hero to introducve myself, a grid showcasing projects I've have been working on as well as a skills and about me setion. Lastly there is a contact section and footer.
 
-Add screenshot of wwebsiteHERE
+## Website screenshots
+
+![Screenshot_20221218_170905](https://user-images.githubusercontent.com/117687727/208310565-5af84f95-9ebf-4578-b52d-15ffbfc459e1.png)
+![Screenshot_20221218_170923](https://user-images.githubusercontent.com/117687727/208310566-c9a5bfb8-8c59-4d93-9ff5-a26d0750be5e.png)
+![Screenshot_20221218_170936](https://user-images.githubusercontent.com/117687727/208310568-baa29b23-73c7-4936-a73d-d50831f3386a.png)
 
 ## Website Link
 
