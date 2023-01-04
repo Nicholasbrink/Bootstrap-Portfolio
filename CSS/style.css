@@ -21,7 +21,7 @@ body {
   margin: 0px 135px 50px 135px;
 }
 .aboutMe img {
-  max-height: 140px;
+  max-height: 115px;
   float: left;
   margin-right: 50px;
 }
@@ -34,11 +34,6 @@ body {
   text-align: center;
   margin: 0px 50px 20px 50px;
 }
-/* .mySkills img {
-  max-height: 100px;
-  float: left;
-  margin-right: 50px;
-} */
 
 .bg-black {
   background-color: #ffffff !important;
